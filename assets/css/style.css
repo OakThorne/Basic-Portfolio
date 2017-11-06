@@ -1,0 +1,148 @@
+
+
+
+
+body {
+	width:100%;
+	height: 100%;
+	margin: 0;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background: #A9A9A9;
+	background-size: cover;
+	display: table;
+	border-color: #dddddd;
+	}
+
+footer {
+	background-color:#666666;
+	display:table-row;
+	height: 1px;
+	text-align: center;
+
+	}
+.wrapper {
+	padding:1px;
+	height: auto;
+}
+.top {
+	width:960px;
+	margin:0 auto;
+}
+.header {
+	background: #4aaaa5;
+	width: 100%;
+	top:0;
+	position: fixed;
+	height: 50px;
+	border-color: #dddddd;
+}
+
+.Name {
+	float: left;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 10px;
+	color:#ccc;
+	height: 50px}
+
+.Nav {
+	float: right;
+	margin-right: 10px;
+	background: #ffffff;
+	width: 310px;
+	height: 50px;}
+
+li {
+	list-style-type:none;
+	float:left;
+	margin-left: 20px;
+	padding-top: 10px;
+	word-spacing: 10px;}
+
+a {
+	text-decoration: none;}
+
+
+
+.container{
+	width: 650px;
+    border: 1px solid green;
+    padding: 25px;
+    margin: 25px;
+	background: #ffffff;
+	display: inline-block;
+	float: left;
+	margin-top: 100px;
+	border-color: #dddddd;}
+
+
+.content {
+	height: 40px;
+	width: 650px;
+	background: #ffffff;
+	text-align: center;
+	display: inline-block;}
+
+#face{
+	width: 200px;
+	height:200px;
+	display: inline;
+	margin-right: 20px;}
+
+.Social {
+	width: 270px;
+	height: 130px;
+	text-align: center;
+	display: inline-block;
+	float: left;
+	border-color: #dddddd;
+	background: #ffffff;
+	margin-top: 100px;
+	padding:10px}
+
+.form{
+	text-align:left;}
+
+.pictures {
+	height:60px; 
+	width:60px;}
+
+.image {
+	position: relative;
+	width:10%;
+	width: 150px;
+	height:150px;
+	display: inline-table;
+	padding-right: 100px;}
+
+img {width: 150px;
+	height: 150px;
+	}
+
+
+h3 {
+	position: absolute;
+	top: 50px;
+	padding-right: 50px;
+	background:}
+
+h3 span {
+	color: white;
+	letter-spacing:-1px;
+	background: #4aaaa5;
+	background: #4aaaa5;
+	padding: 1px;
+	position: absolute;}
+
+span {
+	height: 50px;
+	width:148px;
+	padding-right: 100px;
+	padding-left: 10px;
+	border-right: 100px;}
+}
+
+h2 {text-align: left;}
+
+
+
+
